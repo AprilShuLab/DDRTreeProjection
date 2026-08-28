@@ -64,7 +64,7 @@ Clone the repository and run all scripts from the repository root.
 
 ```bash
 git clone https://github.com/AprilShuLab/DDRTreeProjection.git
-cd SPARK-ASD-Subtype-Score-Projection
+cd DDRTreeProjection
 ```
 
 ### Step 1: prepare the example data
