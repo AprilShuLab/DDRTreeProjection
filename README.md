@@ -63,7 +63,7 @@ The workflow is written in R and uses the following software and packages:
 Clone the repository and run all scripts from the repository root.
 
 ```bash
-git clone https://github.com/Nick-Tan-debug/SPARK-ASD-Subtype-Score-Projection.git
+git clone https://github.com/AprilShuLab/DDRTreeProjection.git
 cd SPARK-ASD-Subtype-Score-Projection
 ```
 
