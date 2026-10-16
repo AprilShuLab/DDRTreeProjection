@@ -8,7 +8,7 @@ The workflow accompanies our study of autism spectrum disorder (ASD) support-nee
 
 ## Method overview
 
-![Reference-based projection of categorical subtypes and continuous subtype scores](figures/method_overview.png)
+![Reference-based projection of categorical subtypes and continuous subtype scores](figures/method_overview_high_resolution.png)
 
 The workflow consists of three scripts:
 
