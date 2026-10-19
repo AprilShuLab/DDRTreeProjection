@@ -1,4 +1,4 @@
-# Reference-Based DDRTree Subtype and Subtype Score Projection
+Projecting DDRTree-derived Subtype Categories and Scores
 
 This repository provides a general workflow for deriving categorical subtypes and continuous subtype scores in a reference cohort and projecting them to an independent target cohort. The framework combines a reference DDRTree, a user-defined partition of its principal Y-node tree, K-nearest-neighbor (KNN) mapping, tree-informed subtype similarities, and optional stratified-bootstrap stability analysis.
 
