@@ -29,7 +29,7 @@ Although the accompanying study used three ASD support-need subtypes, the implem
 ├── 02_target_mapping_workflow.R
 ├── order_cells_igraph214.R
 ├── figures/
-│   └── method_overview.png
+│   └── method_overview_high_resolution.png
 ├── output/
 ├── README.md
 └── LICENSE
