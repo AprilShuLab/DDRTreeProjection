@@ -4,7 +4,7 @@ This repository provides a general workflow for deriving categorical subtypes an
 
 The workflow accompanies our study of autism spectrum disorder (ASD) support-need subtypes in the SPARK discovery cohort and their projection to the Simons Simplex Collection (SSC). Because individual-level SPARK and SSC data cannot be redistributed, the repository uses fully synthetic reference and target cohorts with generic phenotype names. The synthetic data demonstrate the computational workflow only and do not represent real participants or biological findings.
 
-> **Manuscript:** Tan Q, et al. *Machine Learning-Derived Subtypes of Autism Reveal Distinct Genetic Contributions from Common and Rare Variants.* [Journal or preprint information to be added].
+> **Manuscript:** Tan Q, et al. *Machine Learning-Derived Subtypes of Autism Reveal Distinct Genetic Contributions from Common and Rare Variants.* [MedRxiv, 2026, DOI: https://doi.org/10.64898/2026.10.19.26365670].
 
 ## Method overview
 
@@ -279,7 +279,7 @@ All participant-level data included in this repository are synthetic. They were 
 
 If you use this workflow, please cite the accompanying manuscript, Monocle 2, and DDRTree:
 
-1. Tan Q, et al. *Machine Learning-Derived Subtypes of Autism Reveal Distinct Genetic Contributions from Common and Rare Variants.* [Journal, year, DOI to be added].
+1. Tan Q, et al. *Machine Learning-Derived Subtypes of Autism Reveal Distinct Genetic Contributions from Common and Rare Variants.* [MedRxiv, 2026, DOI: https://doi.org/10.64898/2026.10.19.26365670].
 2. Qiu X, et al. Reversed graph embedding resolves complex single-cell trajectories. *Nature Methods.* 2017;14:979–982. https://doi.org/10.1038/nmeth.4402
 3. Trapnell C, et al. The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells. *Nature Biotechnology.* 2014;32:381–386. https://doi.org/10.1038/nbt.2859
 
